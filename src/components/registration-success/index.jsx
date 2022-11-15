@@ -1,5 +1,5 @@
 import { Box, Typography } from '@mui/material';
-import A2D from "../../assets/a2glogo.png";
+import A2D from "../assets/a2glogo.png";
 
 const RegistrationSuccess = () => {
     return (

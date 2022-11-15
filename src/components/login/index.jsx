@@ -3,7 +3,7 @@ import { Formik, Form } from 'formik';
 import { Box, Avatar, Typography, FormControlLabel, Checkbox, Button, IconButton, InputAdornment, OutlinedInput, FormHelperText } from '@mui/material'
 import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
-import A2D from '../../assets/a2glogo.png'
+import A2D from '../assets/a2glogo.png'
 import { loginSchema } from '../../validationSchema';
 
 const LogInForm = ({ onSubmit }) => {
